@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "katex": "^0.10.1",
-    "lit-element": "^2.1.0",
-    "typescript": "^3.3.4000"
+    "lit-element": "^2.1.0"
   }
 }

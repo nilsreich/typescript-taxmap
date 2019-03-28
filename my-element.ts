@@ -16,7 +16,7 @@ export class MyElement extends LitElement {
     return html`
     <style>{MySharedStyles}</style>
           <link rel="stylesheet" href="./style.css">
-    <h1>Test</h1>
+    <h1>Test 2</h1>
     <div id="formel"></div>
     <button type="button" @click="${this.handleClick}">hier</button>
     `
